@@ -20,8 +20,8 @@ $cliente = ManejoCliente::verificarCuentaCliente($correo, $pass);
 $empleado = ManejoEmpleado::verificarCuentaEmpleado($correo, $pass);
 //$cod_peticion = 
 
-echo $conexion;
-/**if (is_null($admin)) {
+
+if (is_null($admin)) {
     if (is_null($cliente)) {
         if (is_null($empleado)) {
             echo '<script>
@@ -61,4 +61,5 @@ echo $conexion;
     $_SESSION['contraseña_administrador'] = $admin->getContraseña_administrador();
     $_SESSION['cod_usuario'] = $admin->getCod_usuario();
     header("Location:../Vista/Admin.php?menu=bienvenido");
-}**/
+}
+?>
