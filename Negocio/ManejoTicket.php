@@ -162,3 +162,4 @@ class ManejoTicket
         self::$conexionBD = $conexionBD;
     }
 }
+?>

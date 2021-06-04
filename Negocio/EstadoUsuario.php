@@ -120,3 +120,4 @@ class EstadoUsuario
         return $this;
     }
 }
+?>

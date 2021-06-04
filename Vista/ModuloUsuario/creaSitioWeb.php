@@ -29,3 +29,4 @@ echo '<script>
 alert("Tus sitio webs se han creado")
 window.location="../User.php?menu=perfil";
 </script>';
+?>

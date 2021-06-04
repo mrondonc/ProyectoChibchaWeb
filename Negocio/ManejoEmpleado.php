@@ -195,3 +195,4 @@ class ManejoEmpleado
         self::$conexionBD = $conexionBD;
     }
 }
+?>

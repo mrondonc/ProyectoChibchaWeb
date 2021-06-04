@@ -150,3 +150,4 @@ class UsuarioDAO implements DAO
         return self::$usuarioDAO;
     }
 }
+?>

@@ -80,3 +80,4 @@ class ManejoUsuario
         self::$conexionBD = $conexionBD;
     }
 }
+?>

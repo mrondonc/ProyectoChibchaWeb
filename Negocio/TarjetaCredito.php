@@ -164,3 +164,4 @@ class TarjetaCredito
 		$this->cod_cliente = $cod_cliente;
 	}
 }
+?>

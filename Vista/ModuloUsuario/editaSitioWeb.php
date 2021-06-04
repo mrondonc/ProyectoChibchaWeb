@@ -28,3 +28,4 @@ echo '<script>
 alert("Tus sitio webs se han modificado")
 window.location="../User.php?menu=perfil";
 </script>';
+?>

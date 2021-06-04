@@ -157,3 +157,4 @@ class CategoriaDistribuidorDAO implements DAO
         return self::$CategoriaDistribuidorDAO;
     }
 }
+?>

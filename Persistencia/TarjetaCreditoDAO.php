@@ -208,3 +208,4 @@ class TarjetaCreditoDAO implements DAO
         return self::$tarjetaCreditoDAO;
     }
 }
+?>

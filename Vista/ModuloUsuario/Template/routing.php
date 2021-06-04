@@ -32,3 +32,4 @@ if (isset($_GET['menu'])) {
 } else {
     include_once("../Vista/ModuloUsuario/index.php");
 }
+?>

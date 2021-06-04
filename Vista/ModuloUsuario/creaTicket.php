@@ -46,3 +46,4 @@ echo '<script>
 alert("Tus ticket se ha creado")
 window.location="../User.php?menu=tickets";
 </script>';
+?>

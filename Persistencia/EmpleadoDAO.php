@@ -406,3 +406,4 @@ class EmpleadoDAO implements DAO
         pg_query($this->conexion, $sql);
     }
 }
+?>

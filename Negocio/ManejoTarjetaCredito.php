@@ -99,3 +99,4 @@ class ManejoTarjetaCredito
         self::$conexionBD = $conexionBD;
     }
 }
+?>

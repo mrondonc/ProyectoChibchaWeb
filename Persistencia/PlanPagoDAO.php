@@ -178,3 +178,4 @@ class PlanPagoDAO implements DAO
         return self::$planPagoDAO;
     }
 }
+?>

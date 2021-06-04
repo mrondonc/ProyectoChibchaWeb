@@ -39,3 +39,4 @@ echo '<script>
 alert("Tus tarjetas de credito se han creado")
 window.location="../User.php?menu=perfil";
 </script>';
+?>

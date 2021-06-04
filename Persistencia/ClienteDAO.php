@@ -317,3 +317,4 @@ class ClienteDAO implements DAO
         pg_query($this->conexion, $sql);
     }
 }
+?>

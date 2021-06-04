@@ -121,3 +121,4 @@ class CategoriaDistribuidor{
         return $this;
     }
 }  
+?>

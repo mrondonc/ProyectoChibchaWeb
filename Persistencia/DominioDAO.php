@@ -289,3 +289,4 @@ class DominioDAO implements DAO
         return self::$dominioDAO;
     }
 }
+?>

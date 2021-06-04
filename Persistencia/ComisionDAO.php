@@ -154,3 +154,4 @@ class ComisionDAO implements DAO
         return self::$comisionDAO;
     }
 }
+?>

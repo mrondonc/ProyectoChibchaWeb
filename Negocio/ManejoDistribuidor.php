@@ -145,3 +145,4 @@
 	                self::$conexionBD = $conexionBD;
 	            }
 	}
+    ?>

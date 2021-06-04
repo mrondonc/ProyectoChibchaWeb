@@ -157,3 +157,4 @@ class EstadoUsuarioDAO implements DAO
         return self::$estadoUsuarioDAO;
     }
 }
+?>

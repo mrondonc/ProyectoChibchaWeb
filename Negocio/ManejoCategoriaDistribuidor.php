@@ -71,3 +71,4 @@
 	                self::$conexionBD = $conexionBD;
 	            }
 	}
+?>

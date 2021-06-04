@@ -93,3 +93,4 @@ class Article{
         return $this;
     }
 }  
+?>

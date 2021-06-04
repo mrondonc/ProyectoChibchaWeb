@@ -88,3 +88,4 @@
 	                self::$conexionBD = $conexionBD;
 	            }
 	}
+    ?>

@@ -373,3 +373,4 @@ class TicketDAO implements DAO
         return self::$ticketDAO;
     }
 }
+?>

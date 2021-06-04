@@ -93,3 +93,4 @@ class PlanPago{
         return $this;
     }
 }  
+?>

@@ -181,3 +181,4 @@ class ManejoDominio
         self::$conexionBD = $conexionBD;
     }
 }
+?>

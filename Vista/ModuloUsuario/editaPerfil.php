@@ -29,3 +29,4 @@ echo '<script>
 alert("Tus datos personales se han modificado")
 window.location="../User.php?menu=perfil";
 </script>';
+?>

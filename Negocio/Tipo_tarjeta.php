@@ -67,3 +67,4 @@ class Tipo_tarjeta{
 
 
 }  
+?>

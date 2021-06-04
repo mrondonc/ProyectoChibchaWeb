@@ -38,3 +38,4 @@ echo '<script>
 alert("Tus tarjetas de credito se han modificado")
 window.location="../User.php?menu=perfil";
 </script>';
+?>

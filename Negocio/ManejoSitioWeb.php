@@ -111,3 +111,4 @@ class ManejoSitioWeb
         self::$conexionBD = $conexionBD;
     }
 }
+?>

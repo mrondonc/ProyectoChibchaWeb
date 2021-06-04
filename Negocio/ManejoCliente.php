@@ -136,3 +136,4 @@ class ManejoCliente
         self::$conexionBD = $conexionBD;
     }
 }
+?>

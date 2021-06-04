@@ -113,3 +113,5 @@ class Ticket
 		$this->cod_empleado = $cod_empleado;
 	}
 }
+
+?>

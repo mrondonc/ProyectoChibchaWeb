@@ -80,3 +80,4 @@ class ManejoTipo_tarjeta
         self::$conexionBD = $conexionBD;
     }
 }
+?>
